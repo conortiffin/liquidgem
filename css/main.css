@@ -1,0 +1,146 @@
+/* BODY STYLES */
+
+body {
+	margin: 0;
+	background-color: #EBEBEB;
+}
+
+/* NAVIGATION LEFT */
+
+.fa {
+	float: left;
+	padding-top: 46px;
+	padding-left: 20px;
+	color: #028482;
+}
+
+nav > a {
+	float: left;
+	padding-left: 10px;
+	padding-top: 37px;
+	font-family: 'Italianno', cursive;
+	font-size: 44px;
+	color: #000000;
+	text-decoration: none;
+}
+
+/* NAVIGATION RIGHT */
+
+nav ul {
+	float: right;
+	font-family: 'Quicksand', sans-serif;
+	font-weight: 400;
+	padding-top: 45px;
+	padding-right: 10px;
+}
+
+nav ul li {
+	display: inline-block;
+	text-decoration: none;
+	padding-right: 20px;
+
+}
+
+hr {
+	position: relative;
+	top: 38px;
+}
+
+a {
+	text-decoration: none;
+	color: #000;
+}
+/* Main Content */
+
+#maincontent {
+	position: relative;
+	top: 80px;
+	font-family: 'Quicksand', sans-serif;
+	text-align: center;
+}
+
+#maincontent h3 span {
+	color: #028482;
+}
+
+/* About Me Section */
+
+#aboutme {
+	width: 46%;
+	float: left;
+	padding-left: 30px;
+	padding-top: 40px;
+	text-align: left;
+}
+
+#aboutme h3 {
+		font-family: 'Italianno', cursive;
+		font-size: 38px;
+		color: #028482;
+		text-align: center;
+}
+
+/* My Work Section */
+
+#mywork {
+	width: 46%;
+	float: right;
+	padding-right: 30px;
+	padding-top: 40px;
+	text-align: left;
+}
+
+
+#mywork h3 {
+		font-family: 'Italianno', cursive;
+		font-size: 38px;
+		color: #028482;
+		text-align: center;
+}
+
+}
+.Row {
+    display: table;
+    text-align: center;
+    position: fixed;
+    top: 600px;
+}
+
+.Column img {
+	width: 200px;
+	height: 200px;
+	padding-top: 80px;
+	padding-left: 35px;
+	padding: right: 35px;
+	margin: 0;
+}
+
+.Column {
+    display: table-cell;
+    display: inline-block;
+}
+
+.Column2 img {
+	width: 200px;
+	height: 200px;
+	padding-top: 35px;
+	padding-left: 35px;
+	padding: right: 35px;
+	margin: 0;
+}
+
+.Column2 {
+    display: table-cell;
+    display: inline-block;
+}
+
+.wrapper {
+	margin-bottom: 60px;
+}
+
+.thanks h1 {
+	font-family: 'Italianno', cursive;
+	font-size: 44px;
+	color: #028482;
+}
+
