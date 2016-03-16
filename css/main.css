@@ -98,6 +98,8 @@ a {
 		text-align: center;
 }
 
+/* Images Section */
+
 }
 .Row {
     display: table;
@@ -138,9 +140,43 @@ a {
 	margin-bottom: 60px;
 }
 
+/* Thanks Section */
+
 .thanks h1 {
 	font-family: 'Italianno', cursive;
 	font-size: 44px;
 	color: #028482;
 }
 
+/* Footer */
+
+footer {
+	background-color: #2D2D2D;
+	height: 250px;
+}
+
+footer h1 {
+	font-family: 'Italianno', cursive;
+	color: #028482;
+	float: left;
+	padding-left: 25px;
+}
+
+footer form {
+	position: relative;
+	bottom: -60px;
+	left: -525px;
+}
+
+footer form #messagebox {
+	position: relative;
+	left: 44px;
+	height: 50px;
+}
+
+.social {
+	float: right;
+	position: relative;
+	right: 45px;
+	bottom: 82px;
+}
